@@ -1,5 +1,0 @@
-{{#user}}
-Name: SHRISH MISHRA
-Skills: HTML, CSS, JS, React
-Email: shrish409@gmail.com
-{{/user}}
